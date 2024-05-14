@@ -1,5 +1,5 @@
 # UMKMapps
-Aplikasi management bisnis yang dibuat berdasarkan bisnis F&amp;B yang dibangun oleh Creator
+Aplikasi Oracle APEX management bisnis yang dibuat berdasarkan bisnis F&amp;B yang dibangun oleh Creator
 
 Aplikasi dibuat menggunakan Oracle APEX yang berbasis low code sehingga mudah dibuat secara _Customize_ 
 
